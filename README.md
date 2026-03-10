@@ -245,7 +245,7 @@ This project was developed with assistance from an AI coding assistant to:
 
 All generated code was reviewed and integrated into the project structure.
 
-## 12. Future Improvements
+## 12. Future Improvement
 
 Potential enhancements:
 
