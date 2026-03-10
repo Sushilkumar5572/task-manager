@@ -167,7 +167,7 @@ source .venv/bin/activate
 2. **Install Python dependencies** (using the provided `requirement.txt` file):
 
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 3. **Configure database connection**:
